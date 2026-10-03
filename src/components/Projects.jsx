@@ -11,8 +11,7 @@ export default function Projects() {
           <p className="section-label">PROJETS</p>
           <h2>Ce que j'ai <span>construit</span></h2>
           <p>
-            Découvrez quelques projets sur lesquels j'ai travaillé. Les vidéos
-            peuvent être ajoutées plus tard dans le dossier <code>public/videos</code>.
+            Découvrez quelques projets sur lesquels j'ai travaillé.
           </p>
         </div>
 

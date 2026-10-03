@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "My To Do List",
+    category: "Application de gestion de taches",
+    description:
+      "Application de gestion de taches permettant de gérer les taches à accomplir, les catégories et le suivi des progrès.",
+    technologies: ["React", "Python", "Flask"],
+    video: "/videos/to do list.mp4",
+    github: "https://github.com/02Felana/app-to-do-list",
+    featured: true
+  },
+  {
     title: "AppRH",
     category: "Application web RH",
     description:
@@ -8,16 +18,6 @@ export const projects = [
     video: "/videos/appRH.mp4",
     github: "https://github.com/02Felana/appRH",
     featured: true
-  },
-  {
-    title: "Salamiaby",
-    category: "Application de traduction",
-    description:
-      "Projet autour de la traduction du malgache vers différentes variantes dialectales, avec une interface web et une API backend.",
-    technologies: ["React", "Python", "Flask", "SQLite"],
-    video: "/videos/salamiaby.mp4",
-    github: "https://github.com/02Felana",
-    featured: false
   },
   {
     title: "Portfolio",

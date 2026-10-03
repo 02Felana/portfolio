@@ -20,7 +20,7 @@ export default function Contact() {
           </p>
 
           <div className="contact-actions">
-            <a className="button primary" href="mailto:felana.natalia@example.com">
+            <a className="button primary" href="mailto:nataliahrazananirina@gmail.com">
               <Mail size={18} /> Envoyer un email
             </a>
             <a className="button secondary light-button" href="https://github.com/02Felana" target="_blank" rel="noreferrer">
